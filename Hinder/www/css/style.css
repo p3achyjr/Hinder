@@ -1,1 +1,11 @@
 /* Empty. Add your own CSS if you like */
+
+.bar-footer.footer-buttons{
+     padding: 0px;
+}
+.bar-footer.footer-buttons .row{
+     padding: 0px;
+}
+.bar-footer.footer-buttons .row .col{
+     text-align: center;
+}
