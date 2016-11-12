@@ -1,11 +1,20 @@
 /* Empty. Add your own CSS if you like */
 
-.bar-footer.footer-buttons{
+.bar-footer.footer-buttons {
      padding: 0px;
 }
-.bar-footer.footer-buttons .row{
+
+.bar-footer.footer-buttons .row {
      padding: 0px;
 }
-.bar-footer.footer-buttons .row .col{
+
+.bar-footer.footer-buttons .row .col {
      text-align: center;
+}
+
+ion-list a.item{
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	border-bottom: 0px;
 }
